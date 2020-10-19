@@ -1,0 +1,9 @@
+C:\Users\nikik\source\repos\lab04\lab04\bin\Debug\lab04.exe.config
+C:\Users\nikik\source\repos\lab04\lab04\bin\Debug\lab04.exe
+C:\Users\nikik\source\repos\lab04\lab04\bin\Debug\lab04.pdb
+C:\Users\nikik\source\repos\lab04\lab04\obj\Debug\lab04.Form1.resources
+C:\Users\nikik\source\repos\lab04\lab04\obj\Debug\lab04.Properties.Resources.resources
+C:\Users\nikik\source\repos\lab04\lab04\obj\Debug\lab04.csproj.GenerateResource.cache
+C:\Users\nikik\source\repos\lab04\lab04\obj\Debug\lab04.exe
+C:\Users\nikik\source\repos\lab04\lab04\obj\Debug\lab04.pdb
+C:\Users\nikik\source\repos\lab04\lab04\obj\Debug\lab04.csprojAssemblyReference.cache
