@@ -1,5 +1,0 @@
-C:\Users\nikik\source\repos\Vag-Fish\Vag-Fish\obj\Debug\Vag-Fish.csprojAssemblyReference.cache
-C:\Users\nikik\source\repos\Vag-Fish\Vag-Fish\bin\Debug\Vag-Fish.dll
-C:\Users\nikik\source\repos\Vag-Fish\Vag-Fish\bin\Debug\Vag-Fish.pdb
-C:\Users\nikik\source\repos\Vag-Fish\Vag-Fish\obj\Debug\Vag-Fish.dll
-C:\Users\nikik\source\repos\Vag-Fish\Vag-Fish\obj\Debug\Vag-Fish.pdb
