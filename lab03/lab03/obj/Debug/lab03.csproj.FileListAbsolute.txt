@@ -1,0 +1,6 @@
+C:\Users\nikik\source\repos\lab03\lab03\bin\Debug\lab03.exe.config
+C:\Users\nikik\source\repos\lab03\lab03\bin\Debug\lab03.exe
+C:\Users\nikik\source\repos\lab03\lab03\bin\Debug\lab03.pdb
+C:\Users\nikik\source\repos\lab03\lab03\obj\Debug\lab03.csprojAssemblyReference.cache
+C:\Users\nikik\source\repos\lab03\lab03\obj\Debug\lab03.exe
+C:\Users\nikik\source\repos\lab03\lab03\obj\Debug\lab03.pdb
